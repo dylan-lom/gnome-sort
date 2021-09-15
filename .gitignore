@@ -2,6 +2,12 @@
 tags
 dist/
 build/
+out*
+shuffle
+gnomesort
+.list.txt
+.parts
+*.mp4
 
 a.out
 

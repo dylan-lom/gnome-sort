@@ -28,7 +28,9 @@ Stores the chunks in `./.parts`, feel free to delete that once you're done...
 References
 ----------
 [Sorting algorithms on YouTube][1]
+
 [Gnome sort on Wikipedia][2]
+
 [FFmpeg][4]
 
 [1]: https://www.youtube.com/watch?v=t8g-iYGHpEA

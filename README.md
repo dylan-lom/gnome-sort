@@ -35,7 +35,7 @@ References
 
 [1]: https://www.youtube.com/watch?v=t8g-iYGHpEA
 [2]: https://en.wikipedia.org/wiki/Gnome_sort#Description
-[3]: https://youtu.be/7e8EcY_CwaE
+[3]: https://youtu.be/qdP54eqdZiI
 [4]: https://ffmpeg.org/
 
 
